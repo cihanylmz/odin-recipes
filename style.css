@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+    background-color: darkgray;
+    text-align: center;
+    font-family: "Times New Roman", "Helvetica", serif;
+}
+
+h2 {
+    color: blue;
+    background-color: rgb(255, 210, 210);
+    font-family: "Times New Roman", "Helvetica", serif;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    color: rgb(172, 161, 161);
+    font-size: 12px;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+.recipes {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
